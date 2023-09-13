@@ -1,4 +1,6 @@
 # Emojis
+https://www.compart.com/en/unicode/block/U+2600
+
 ## Smiley Face Emojis
 🙂 😀 😃 😄 😁 😅 😆 🤣 😂 🙃 😉 😊 😇 😎 🤓 🧐 🥳
 ## Emotional Faces Emojis
